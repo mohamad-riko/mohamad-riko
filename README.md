@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 AND HAVE FUN 
+ 
 <!--
 **mohamad-riko/mohamad-riko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
